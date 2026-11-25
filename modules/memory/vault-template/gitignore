@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+._*
+.Trashes/
+
+# Obsidian and local agent settings
+.obsidian/
+.trash/
+
+# Secrets and local environment settings
+.env
+.env.*
+!.env.example
+
+# Dependencies and caches
+node_modules/
+.venv/
+__pycache__/
+
+# Editor temp files
+*.swp
+*~

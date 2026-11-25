@@ -1,0 +1,8 @@
+# Example list of agent skills folders. Copy this file to agent-dirs in the same
+# folder and edit the copy. agent-dirs is per computer and is not committed,
+# because two computers can have different agents.
+# One agent skills folder per line. Lines starting with # are ignored.
+# Keep only the agents installed on this computer, then run .githooks/sync-links.sh once.
+~/.claude/skills
+~/.codex/skills
+~/.gemini/skills
