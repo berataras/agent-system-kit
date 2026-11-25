@@ -22,7 +22,7 @@ Resolve every path in this skill relative to the folder that contains this file.
 
 ## Questions you may ask
 
-This is the complete list. You ask NOTHING outside it, in any module. If something is not covered here, use the default and mention it in the final summary instead of asking. Ask in the user's language. Ask one question at a time, with a default the user can accept with one word.
+This is the complete list. You ask NOTHING outside it, in any module. If something is not covered here, use the default and mention it in the final summary instead of asking. Ask in the user's language. In languages with a formal and an informal "you", always use the informal one and keep it the same for the whole setup (Turkish "sen", never "siz"; German "du"; French "tu"). Ask one question at a time, with a default the user can accept with one word.
 
 **Always-asked questions (at most five, in this order):**
 
